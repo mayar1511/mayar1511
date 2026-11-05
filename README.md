@@ -1,8 +1,8 @@
 # Hi, I'm Mayar 👋
 
-**AI Engineer @ LyRise | LangGraph multi-agent systems · hybrid RAG · production FastAPI | Healthcare × AI**
+**AI Engineer | LangGraph multi-agent systems · hybrid RAG · production FastAPI | Healthcare × AI**
 
-I build production LLM systems. By day I'm an AI Engineer at [LyRise](https://lyrise.ai), working on a multi-tenant Privacy Impact Assessment platform. My background is pharmacy (BSc, Cairo University), and I'm completing an Associate Degree in Data Science, so healthcare is the domain I understand best.
+I build production LLM systems. By day I'm an AI Engineer, working on a multi-tenant Privacy Impact Assessment platform. My background is pharmacy (BSc, Cairo University), and I'm completing an Associate Degree in Data Science, so healthcare is the domain I understand best.
 
 ## What I work with
 
