@@ -25,4 +25,7 @@ All three live in [ai-portfolio](https://github.com/mayar1511/ai-portfolio).
 
 ## Contact
 
+- Email: mayarhesham1511@gmail.com  
+- LinkedIn: [mayar-hesham](https://www.linkedin.com/in/mayar-hesham/)
+
 Open to remote AI engineering roles and freelance automation work.
