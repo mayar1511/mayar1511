@@ -1,4 +1,4 @@
-# Hi, I'm Mayar 👋
+# Hi, I'm Mayar
 
 **AI Engineer | LangGraph multi-agent systems · hybrid RAG · production FastAPI | Healthcare × AI**
 
